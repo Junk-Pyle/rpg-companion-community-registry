@@ -91,5 +91,16 @@
     "github_repo": "jesseseward75-cmyk/hero-s-agents-goblins",
     "repo_url": "https://jesseseward75-cmyk.github.io/hero-s-agents-goblins/",
     "has_system": false
+  },
+  {
+    "name": "The-Pugilist-Pack",
+    "description": "Brings everything from The Pugilist Class made by Sterling Vermin Co.",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Junk-Pyle/The-Pugilist-Pack",
+    "repo_url": "https://Junk-Pyle.github.io/The-Pugilist-Pack/",
+    "has_system": false
   }
 ]
