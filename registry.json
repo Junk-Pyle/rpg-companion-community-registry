@@ -81,6 +81,29 @@
     "has_system": false
   },
   {
+    "name": "Cardslinger-Class",
+    "description": "A class and two items inspired by Gambet from X-man.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Cardslinger-Class",
+    "repo_url": "https://Violetwolf003-beep.github.io/Cardslinger-Class/",
+    "has_system": false
+  },
+  {
+    "name": "Chainsaw-Man-Ideas",
+    "description": "A class, background and feats inspired by Chainsaw-Man.",
+    "tags": [
+      "5e",
+      "chainsaw-man"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Chainsaw-Man-Ideas",
+    "repo_url": "https://Violetwolf003-beep.github.io/Chainsaw-Man-Ideas/",
+    "has_system": false
+  },
+  {
     "name": "hero-s-agents-goblins",
     "description": "you are tasked to protect an ancient civilization from goblins",
     "tags": [
@@ -114,6 +137,88 @@
     "stars": 0,
     "github_repo": "Junk-Pyle/DM-TUZ-Races",
     "repo_url": "https://Junk-Pyle.github.io/DM-TUZ-Races/",
+    "has_system": false
+  },
+  {
+    "name": "The-Bloodborne-Hunter",
+    "description": "This class is home brewed based on the good hunter (the character you play) from bloodborne. this is my first class I have made and don’t know if it’s balanced and it would help for some feedback.",
+    "tags": [
+      "5e",
+      "fantasy",
+      "bloodborne"
+    ],
+    "stars": 0,
+    "github_repo": "SLRPY-PNDZZ/The-Bloodborne-Hunter",
+    "repo_url": "https://SLRPY-PNDZZ.github.io/The-Bloodborne-Hunter/",
+    "has_system": false
+  },
+  {
+    "name": "Twilight-cleric",
+    "description": "5e twilight cleric reworked for 2024",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "odytsek/Twilight-cleric",
+    "repo_url": "https://odytsek.github.io/Twilight-cleric/",
+    "has_system": false
+  },
+  {
+    "name": "One-piece-inspired-pack",
+    "description": "Classes, races, feats (to show Haki), items (like devil fruits), and seastone weapons inspired by the One Piece franchise.",
+    "tags": [
+      "5e",
+      "one-piece"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/One-piece-inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/One-piece-inspired-pack/",
+    "has_system": false
+  },
+  {
+    "name": "Plague-doctor-pack",
+    "description": "A class, background and items inspired by a plague doctor.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Plague-doctor-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Plague-doctor-pack/",
+    "has_system": false
+  },
+  {
+    "name": "Weapon-pack",
+    "description": "A pack of weapons.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Weapon-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Weapon-pack/",
+    "has_system": false
+  },
+  {
+    "name": "Street-Fighter-pack",
+    "description": "A class, background, and mobs inspired by the Street Fighter franchise.",
+    "tags": [
+      "5e",
+      "street-fighter"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Street-Fighter-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Street-Fighter-pack/",
+    "has_system": false
+  },
+  {
+    "name": "Balanced-Homebrew-Subclasses",
+    "description": "Includes balanced, fun homebrew subclasses by me for Warlocks (2), Monks (2), Fighters (1) and Druids (1)!",
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
+    "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
     "has_system": false
   }
 ]
