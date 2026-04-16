@@ -549,5 +549,27 @@
     "github_repo": "ThrawnIsAlive/Treantmonk-s-Homebrew-Ranger-Buffs",
     "repo_url": "https://ThrawnIsAlive.github.io/Treantmonk-s-Homebrew-Ranger-Buffs/",
     "has_system": false
+  },
+  {
+    "name": "leonin-species",
+    "description": "this is the leonin race from 5e",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "ethearia123/leonin-species",
+    "repo_url": "https://ethearia123.github.io/leonin-species/",
+    "has_system": false
+  },
+  {
+    "name": "Rival-the-gods-in-",
+    "description": "Rival the gods in order to usurp them and rule as a fairer ",
+    "tags": [
+        "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "ethearia123/Rival-the-gods-in-",
+    "repo_url": "https://ethearia123.github.io/Rival-the-gods-in-/",
+    "has_system": false
   }
 ]
