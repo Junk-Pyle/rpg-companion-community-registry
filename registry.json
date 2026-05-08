@@ -7,7 +7,7 @@
       "fantasy",
       "5e",
       "5e2024",
-	  "pf2e"
+      "pf2e"
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
@@ -641,7 +641,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-legacy-core/",
     "github_repo": "blastervla/pf2e-legacy-core",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-7dfs0",
@@ -654,7 +654,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-7dfs0/",
     "github_repo": "blastervla/pf2e-src-7dfs0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-aaws",
@@ -667,7 +667,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-aaws/",
     "github_repo": "blastervla/pf2e-src-aaws",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-affm",
@@ -680,7 +680,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-affm/",
     "github_repo": "blastervla/pf2e-src-affm",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-afof",
@@ -693,7 +693,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-afof/",
     "github_repo": "blastervla/pf2e-src-afof",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-aoa",
@@ -706,7 +706,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-aoa/",
     "github_repo": "blastervla/pf2e-src-aoa",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-aoe",
@@ -719,7 +719,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-aoe/",
     "github_repo": "blastervla/pf2e-src-aoe",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-av",
@@ -732,7 +732,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-av/",
     "github_repo": "blastervla/pf2e-src-av",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-bb",
@@ -745,7 +745,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-bb/",
     "github_repo": "blastervla/pf2e-src-bb",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-bl0",
@@ -758,7 +758,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-bl0/",
     "github_repo": "blastervla/pf2e-src-bl0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-botd",
@@ -771,7 +771,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-botd/",
     "github_repo": "blastervla/pf2e-src-botd",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-cc0",
@@ -784,7 +784,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-cc0/",
     "github_repo": "blastervla/pf2e-src-cc0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-cott",
@@ -797,7 +797,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-cott/",
     "github_repo": "blastervla/pf2e-src-cott",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-da",
@@ -810,7 +810,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-da/",
     "github_repo": "blastervla/pf2e-src-da",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-dall",
@@ -823,7 +823,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-dall/",
     "github_repo": "blastervla/pf2e-src-dall",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-ec",
@@ -836,7 +836,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-ec/",
     "github_repo": "blastervla/pf2e-src-ec",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-fop",
@@ -849,7 +849,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-fop/",
     "github_repo": "blastervla/pf2e-src-fop",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-frp",
@@ -862,7 +862,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-frp/",
     "github_repo": "blastervla/pf2e-src-frp",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-g-g",
@@ -875,7 +875,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-g-g/",
     "github_repo": "blastervla/pf2e-src-g-g",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-gw",
@@ -888,7 +888,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-gw/",
     "github_repo": "blastervla/pf2e-src-gw",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-loaclo",
@@ -901,7 +901,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-loaclo/",
     "github_repo": "blastervla/pf2e-src-loaclo",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-loag",
@@ -914,7 +914,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-loag/",
     "github_repo": "blastervla/pf2e-src-loag",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-locg",
@@ -927,7 +927,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-locg/",
     "github_repo": "blastervla/pf2e-src-locg",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-logm",
@@ -940,7 +940,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-logm/",
     "github_repo": "blastervla/pf2e-src-logm",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lohh",
@@ -953,7 +953,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lohh/",
     "github_repo": "blastervla/pf2e-src-lohh",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-loil",
@@ -966,7 +966,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-loil/",
     "github_repo": "blastervla/pf2e-src-loil",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lokl",
@@ -979,7 +979,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lokl/",
     "github_repo": "blastervla/pf2e-src-lokl",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lol",
@@ -992,7 +992,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lol/",
     "github_repo": "blastervla/pf2e-src-lol",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lome",
@@ -1005,7 +1005,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lome/",
     "github_repo": "blastervla/pf2e-src-lome",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lomm",
@@ -1018,7 +1018,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lomm/",
     "github_repo": "blastervla/pf2e-src-lomm",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lopsg",
@@ -1031,7 +1031,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lopsg/",
     "github_repo": "blastervla/pf2e-src-lopsg",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lora",
@@ -1044,7 +1044,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lora/",
     "github_repo": "blastervla/pf2e-src-lora",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-losk",
@@ -1057,7 +1057,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-losk/",
     "github_repo": "blastervla/pf2e-src-losk",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lotg",
@@ -1070,7 +1070,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lotg/",
     "github_repo": "blastervla/pf2e-src-lotg",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lotgb",
@@ -1083,7 +1083,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lotgb/",
     "github_repo": "blastervla/pf2e-src-lotgb",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lotxwg",
@@ -1096,7 +1096,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lotxwg/",
     "github_repo": "blastervla/pf2e-src-lotxwg",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-lowg",
@@ -1109,7 +1109,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-lowg/",
     "github_repo": "blastervla/pf2e-src-lowg",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-ltiba",
@@ -1122,7 +1122,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-ltiba/",
     "github_repo": "blastervla/pf2e-src-ltiba",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-mal",
@@ -1135,7 +1135,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-mal/",
     "github_repo": "blastervla/pf2e-src-mal",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-motm",
@@ -1148,7 +1148,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-motm/",
     "github_repo": "blastervla/pf2e-src-motm",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-ms0",
@@ -1161,7 +1161,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-ms0/",
     "github_repo": "blastervla/pf2e-src-ms0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-ngd",
@@ -1174,7 +1174,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-ngd/",
     "github_repo": "blastervla/pf2e-src-ngd",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-ooa",
@@ -1187,7 +1187,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-ooa/",
     "github_repo": "blastervla/pf2e-src-ooa",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-pfum",
@@ -1200,7 +1200,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-pfum/",
     "github_repo": "blastervla/pf2e-src-pfum",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-pos1",
@@ -1213,7 +1213,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-pos1/",
     "github_repo": "blastervla/pf2e-src-pos1",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-qff",
@@ -1226,7 +1226,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-qff/",
     "github_repo": "blastervla/pf2e-src-qff",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-rotr0",
@@ -1239,7 +1239,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-rotr0/",
     "github_repo": "blastervla/pf2e-src-rotr0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-rust",
@@ -1252,7 +1252,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-rust/",
     "github_repo": "blastervla/pf2e-src-rust",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sas",
@@ -1265,7 +1265,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sas/",
     "github_repo": "blastervla/pf2e-src-sas",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sf",
@@ -1278,7 +1278,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sf/",
     "github_repo": "blastervla/pf2e-src-sf",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-skt0",
@@ -1291,7 +1291,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-skt0/",
     "github_repo": "blastervla/pf2e-src-skt0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sli",
@@ -1304,7 +1304,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sli/",
     "github_repo": "blastervla/pf2e-src-sli",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sob0",
@@ -1317,7 +1317,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sob0/",
     "github_repo": "blastervla/pf2e-src-sob0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sog",
@@ -1330,7 +1330,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sog/",
     "github_repo": "blastervla/pf2e-src-sog",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-som",
@@ -1343,7 +1343,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-som/",
     "github_repo": "blastervla/pf2e-src-som",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sot",
@@ -1356,7 +1356,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sot/",
     "github_repo": "blastervla/pf2e-src-sot",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-sw0",
@@ -1369,7 +1369,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-sw0/",
     "github_repo": "blastervla/pf2e-src-sw0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-tal",
@@ -1382,7 +1382,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-tal/",
     "github_repo": "blastervla/pf2e-src-tal",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-tec",
@@ -1395,7 +1395,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-tec/",
     "github_repo": "blastervla/pf2e-src-tec",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-tio",
@@ -1408,7 +1408,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-tio/",
     "github_repo": "blastervla/pf2e-src-tio",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-tok",
@@ -1421,7 +1421,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-tok/",
     "github_repo": "blastervla/pf2e-src-tok",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-tott0",
@@ -1434,7 +1434,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-tott0/",
     "github_repo": "blastervla/pf2e-src-tott0",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-tv",
@@ -1447,7 +1447,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-tv/",
     "github_repo": "blastervla/pf2e-src-tv",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-wow",
@@ -1460,7 +1460,7 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-wow/",
     "github_repo": "blastervla/pf2e-src-wow",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   },
   {
     "id": "pf2e-src-wtd",
@@ -1473,6 +1473,6 @@
     "repo_url": "https://blastervla.github.io/pf2e-src-wtd/",
     "github_repo": "blastervla/pf2e-src-wtd",
     "stars": 0,
-    "has_system": true
+    "has_system": false
   }
 ]
